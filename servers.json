@@ -1,14 +1,6 @@
 {
   "servers": [
     {
-      "name": "SideStore Preferred",
-      "address": "https://ani.sidestore.io"
-    },
-    {
-      "name": "Macley Anisette",
-      "address": "https://ani.asdfzdfj.xyz"
-    },
-    {
       "name": "YouzaiWrt Anisette v3",
       "address": "http://100.100.10.254:6969"
     }
