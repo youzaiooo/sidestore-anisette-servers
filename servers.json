@@ -2,7 +2,7 @@
   "servers": [
     {
       "name": "YouzaiWrt Anisette v3",
-      "address": "http://100.100.10.254:6969"
+      "address": "http://192.168.10.254:6969"
     }
   ]
 }
